@@ -8,7 +8,7 @@ As a passionate data enthusiast, I've leveraged these powerful tools to analyze 
 - [Global Superstore Sales Analysis](https://github.com/CatherinePetridou/GlobalSuperStoreAnalysis)
 
 - <b>MySQL:</b>Explore my SQL projects.These projects demonstrate my proficiency in handling structured data.
-- [Digital Music Store Sales Analysis](https://github.com/CatherinePetridou/GlobalSuperStoreAnalysis)
+- [Digital Music Store Sales Analysis](https://github.com/CatherinePetridou/musicStore)
  
 - <b>Power BI:</b> Discover my Power BI projects showcasing dynamic reports and dashboards. 
   
